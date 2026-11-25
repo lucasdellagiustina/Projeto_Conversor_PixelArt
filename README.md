@@ -23,7 +23,7 @@ ConversorPixelArt/
 ├── ampliarImagem.m
 │
 ├── imagens/
-│   └── Blade.png
+│   └── Teste.png
 │
 └── resultados/
 ```
